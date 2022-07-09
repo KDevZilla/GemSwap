@@ -1,0 +1,11 @@
+D:\CODE\visual studio 2010\Projects\GemSwap\GemSwap\GemSwap\bin\Debug\GemSwap.exe.config
+D:\CODE\visual studio 2010\Projects\GemSwap\GemSwap\GemSwap\bin\Debug\GemSwap.exe
+D:\CODE\visual studio 2010\Projects\GemSwap\GemSwap\GemSwap\bin\Debug\GemSwap.pdb
+D:\CODE\visual studio 2010\Projects\GemSwap\GemSwap\GemSwap\obj\x86\Debug\GemSwap.csprojAssemblyReference.cache
+D:\CODE\visual studio 2010\Projects\GemSwap\GemSwap\GemSwap\obj\x86\Debug\GemSwap.FormGemSwap.resources
+D:\CODE\visual studio 2010\Projects\GemSwap\GemSwap\GemSwap\obj\x86\Debug\GemSwap.Properties.Resources.resources
+D:\CODE\visual studio 2010\Projects\GemSwap\GemSwap\GemSwap\obj\x86\Debug\GemSwap.csproj.GenerateResource.cache
+D:\CODE\visual studio 2010\Projects\GemSwap\GemSwap\GemSwap\obj\x86\Debug\GemSwap.csproj.CoreCompileInputs.cache
+D:\CODE\visual studio 2010\Projects\GemSwap\GemSwap\GemSwap\obj\x86\Debug\GemSwap.exe
+D:\CODE\visual studio 2010\Projects\GemSwap\GemSwap\GemSwap\obj\x86\Debug\GemSwap.pdb
+D:\CODE\visual studio 2010\Projects\GemSwap\GemSwap\GemSwap\obj\x86\Debug\GemSwap.FormAbout.resources
